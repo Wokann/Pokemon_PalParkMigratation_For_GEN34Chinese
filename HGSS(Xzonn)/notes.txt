@@ -10,3 +10,53 @@
 联动锁区程序位于overlay9_74（需解压），
 日版（含汉化）HGSS内存地址为0x02226BD8，rom位置为0x00235D09(需要hack的位置）
 将此位置的0xD105改为0xD1FF即可解除语言限制。
+
+
+
+
+020D71D0	FS_FindArchive
+020D7210	FS_RegisterArchiveName
+020D72C4	FS_ReleaseArchiveName
+020D7348	FS_LoadArchive
+020D73B8	FS_UnloadArchive
+020D7478	FS_LoadArchiveTables
+020D759C	FS_UnloadArchiveTables
+020D7628	FS_SuspendArchive
+020D76C4	FS_ResumeArchive
+020D7734	FS_SetArchiveProc
+020D7734	FS_SetArchiveProc
+020D7754	FS_NotifyArchiveAsyncEnd
+020D77D8	FS_Init
+020D7800	GX_GetDefaultDMA
+020D7800	GX_GetDefaultDMA
+020D7810	FS_InitFile
+020D7838	FSi_FindPath
+020D797C	FSi_ReadFileCore
+020D79F8	FS_ConvertPathToFileID
+020D7A38	FS_OpenFileDirect
+020D7A80	FS_OpenFileFast
+020D7AF0	FS_OpenFile
+020D7B38	FS_CloseFile
+020D7B74	FS_WaitAsync
+020D7C34	FS_ReadFileAsync
+020D7C44	FS_ReadFile
+020D7C54	FS_SeekFile
+020D7C54	FS_SeekFile
+020D7CC0	FS_ChangeDir
+020D7D18	FSi_OnRomReadDone
+020D7D3C	FSi_ReadRomCallback
+020D7D8C	FSi_RomArchiveProc
+020D7E08	FSi_InitRom
+020D7F50	FS_SetDefaultDMA
+020D7FA0	FS_TryLoadTable
+020D7FC0	FSi_GetOverlayBinarySize
+020D8018	FS_GetOverlayFileID
+020D8040	FSi_LoadOverlayInfoCore
+020D8138	FS_LoadOverlayInfo
+020D8234	FS_LoadOverlayImageAsync
+020D82C0	FS_LoadOverlayImage
+020D83E4	FS_StartOverlay
+020D84D8	FS_EndOverlay
+020D85C8	FS_UnloadOverlayImage
+020D85D8	FS_LoadOverlay
+020D862C	FS_UnloadOverlay
