@@ -165,8 +165,6 @@
  //跨语言联动解限
  .org overlay9_83_start + 0x129A    //0x0223097A
     bne (overlay9_83_start + 0x129A +2)
-
- overlay9_83_NewEnd:
 .close
 
 .create ".\.temp\Diamond\root\data\zhn\conversion_table.bin",0x0
