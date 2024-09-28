@@ -1,0 +1,9 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\AI IGO DSLang.xml
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\AI IGO DS.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\AI IGO DS.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\AI IGO DS\AI IGO DS\obj\Release\AI IGO DS.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\AI IGO DS\AI IGO DS\obj\Release\AI_IGO_DS.BinControl.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\AI IGO DS\AI IGO DS\obj\Release\AI_IGO_DS.Properties.Resources.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\AI IGO DS\AI IGO DS\obj\Release\AI IGO DS.csproj.GenerateResource.Cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\AI IGO DS\AI IGO DS\obj\Release\AI IGO DS.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\AI IGO DS\AI IGO DS\obj\Release\AI IGO DS.pdb

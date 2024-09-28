@@ -1,0 +1,5 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\1stPlayable.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\1stPlayable.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\1stPlayable\1stPlayable\obj\Release\1stPlayable.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\1stPlayable\1stPlayable\obj\Release\1stPlayable.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\1stPlayable\1stPlayable\obj\Release\1stPlayable.pdb

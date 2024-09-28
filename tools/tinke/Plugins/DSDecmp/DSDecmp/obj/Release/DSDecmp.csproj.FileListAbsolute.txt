@@ -1,0 +1,13 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\DSDecmp.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\DSDecmp.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\DSDecmp\DSDecmp\bin\Release\DSDecmp.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\DSDecmp\DSDecmp\bin\Release\DSDecmp.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\DSDecmp\DSDecmp\bin\Release\Ekona.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\DSDecmp\DSDecmp\bin\Release\Ekona.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\DSDecmp\DSDecmp\obj\Release\DSDecmp.csproj.AssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\DSDecmp\DSDecmp\obj\Release\DSDecmp.CompressionControl.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\DSDecmp\DSDecmp\obj\Release\DSDecmp.csproj.GenerateResource.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\DSDecmp\DSDecmp\obj\Release\DSDecmp.csproj.CoreCompileInputs.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\DSDecmp\DSDecmp\obj\Release\DSDecmp.csproj.CopyComplete
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\DSDecmp\DSDecmp\obj\Release\DSDecmp.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\DSDecmp\DSDecmp\obj\Release\DSDecmp.pdb

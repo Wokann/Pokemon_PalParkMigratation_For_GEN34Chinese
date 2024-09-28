@@ -1,0 +1,5 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\INAZUMA11.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\INAZUMA11.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\INAZUMA11\INAZUMA11\obj\Release\INAZUMA11.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\INAZUMA11\INAZUMA11\obj\Release\INAZUMA11.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\INAZUMA11\INAZUMA11\obj\Release\INAZUMA11.pdb

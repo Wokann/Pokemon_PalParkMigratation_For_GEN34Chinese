@@ -1,0 +1,5 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\999HRPERDOOR.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\999HRPERDOOR.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\999HRPERDOOR\999HRPERDOOR\obj\Release\999HRPERDOOR.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\999HRPERDOOR\999HRPERDOOR\obj\Release\999HRPERDOOR.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\999HRPERDOOR\999HRPERDOOR\obj\Release\999HRPERDOOR.pdb

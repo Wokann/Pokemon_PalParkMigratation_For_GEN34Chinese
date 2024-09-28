@@ -1,0 +1,5 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\GYAKUKEN.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\GYAKUKEN.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\GYAKUKEN\GYAKUKEN\obj\Release\GYAKUKEN.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\GYAKUKEN\GYAKUKEN\obj\Release\GYAKUKEN.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\GYAKUKEN\GYAKUKEN\obj\Release\GYAKUKEN.pdb

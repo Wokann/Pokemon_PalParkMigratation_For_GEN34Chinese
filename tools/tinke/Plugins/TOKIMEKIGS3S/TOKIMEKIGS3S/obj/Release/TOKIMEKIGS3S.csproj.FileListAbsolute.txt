@@ -1,0 +1,5 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\TOKIMEKIGS3S.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\TOKIMEKIGS3S.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TOKIMEKIGS3S\TOKIMEKIGS3S\obj\Release\TOKIMEKIGS3S.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TOKIMEKIGS3S\TOKIMEKIGS3S\obj\Release\TOKIMEKIGS3S.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TOKIMEKIGS3S\TOKIMEKIGS3S\obj\Release\TOKIMEKIGS3S.pdb

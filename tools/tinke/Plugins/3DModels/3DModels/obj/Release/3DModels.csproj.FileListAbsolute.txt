@@ -1,0 +1,10 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\3DModelsLang.xml
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\3DModels.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\3DModels.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\3DModels\3DModels\obj\Release\3DModels.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\3DModels\3DModels\obj\Release\_3DModels.ModelControl.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\3DModels\3DModels\obj\Release\_3DModels.Properties.Resources.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\3DModels\3DModels\obj\Release\_3DModels.TextureControl.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\3DModels\3DModels\obj\Release\3DModels.csproj.GenerateResource.Cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\3DModels\3DModels\obj\Release\3DModels.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\3DModels\3DModels\obj\Release\3DModels.pdb

@@ -1,0 +1,7 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\PSL.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\PSL\PSL\obj\Release\PSL.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\PSL\PSL\obj\Release\PSL.ATDTX.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\PSL\PSL\obj\Release\PSL.GBCS.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\PSL\PSL\obj\Release\PSL.TexSprites.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\PSL\PSL\obj\Release\PSL.csproj.GenerateResource.Cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\PSL\PSL\obj\Release\PSL.dll

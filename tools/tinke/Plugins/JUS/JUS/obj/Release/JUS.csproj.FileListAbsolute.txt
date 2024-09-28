@@ -1,0 +1,3 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\JUS.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\JUS\JUS\obj\Release\JUS.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\JUS\JUS\obj\Release\JUS.dll

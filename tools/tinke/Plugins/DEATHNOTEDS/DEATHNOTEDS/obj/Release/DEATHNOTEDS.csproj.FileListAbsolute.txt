@@ -1,0 +1,5 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\DEATHNOTEDS.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\DEATHNOTEDS.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\DEATHNOTEDS\DEATHNOTEDS\obj\Release\DEATHNOTEDS.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\DEATHNOTEDS\DEATHNOTEDS\obj\Release\DEATHNOTEDS.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\DEATHNOTEDS\DEATHNOTEDS\obj\Release\DEATHNOTEDS.pdb

@@ -1,0 +1,6 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\TETRISDSLang.xml
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\TETRIS DS.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\TETRIS DS.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TETRIS DS\TETRIS DS\obj\Release\TETRIS DS.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TETRIS DS\TETRIS DS\obj\Release\TETRIS DS.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TETRIS DS\TETRIS DS\obj\Release\TETRIS DS.pdb

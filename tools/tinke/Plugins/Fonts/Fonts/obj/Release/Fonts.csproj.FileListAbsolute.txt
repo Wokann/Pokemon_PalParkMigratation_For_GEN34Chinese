@@ -1,0 +1,11 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\FontLang.xml
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\Fonts.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\Fonts.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Fonts\Fonts\obj\Release\Fonts.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Fonts\Fonts\obj\Release\Fonts.CharControl.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Fonts\Fonts\obj\Release\Fonts.FontControl.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Fonts\Fonts\obj\Release\Fonts.MapChar.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Fonts\Fonts\obj\Release\Fonts.Properties.Resources.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Fonts\Fonts\obj\Release\Fonts.csproj.GenerateResource.Cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Fonts\Fonts\obj\Release\Fonts.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Fonts\Fonts\obj\Release\Fonts.pdb

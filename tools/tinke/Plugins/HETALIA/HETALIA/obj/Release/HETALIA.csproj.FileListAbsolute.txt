@@ -1,0 +1,5 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\HETALIA.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\HETALIA.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\HETALIA\HETALIA\obj\Release\HETALIA.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\HETALIA\HETALIA\obj\Release\HETALIA.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\HETALIA\HETALIA\obj\Release\HETALIA.pdb

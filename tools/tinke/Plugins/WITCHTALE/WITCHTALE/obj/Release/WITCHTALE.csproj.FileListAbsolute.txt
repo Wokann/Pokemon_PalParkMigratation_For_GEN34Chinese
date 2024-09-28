@@ -1,0 +1,5 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\WITCHTALE.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\WITCHTALE.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\WITCHTALE\WITCHTALE\obj\Release\WITCHTALE.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\WITCHTALE\WITCHTALE\obj\Release\WITCHTALE.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\WITCHTALE\WITCHTALE\obj\Release\WITCHTALE.pdb

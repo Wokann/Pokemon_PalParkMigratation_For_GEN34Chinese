@@ -1,0 +1,9 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\TXTLang.xml
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\TXT.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\TXT.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TXT\TXT\obj\Release\TXT.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TXT\TXT\obj\Release\TXT.iBMG.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TXT\TXT\obj\Release\TXT.iTXT.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TXT\TXT\obj\Release\TXT.csproj.GenerateResource.Cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TXT\TXT\obj\Release\TXT.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TXT\TXT\obj\Release\TXT.pdb

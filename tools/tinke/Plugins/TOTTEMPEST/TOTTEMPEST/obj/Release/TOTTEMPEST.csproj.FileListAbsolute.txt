@@ -1,0 +1,6 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\TottempestLang.xml
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\TOTTEMPEST.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\TOTTEMPEST.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TOTTEMPEST\TOTTEMPEST\obj\Release\TOTTEMPEST.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TOTTEMPEST\TOTTEMPEST\obj\Release\TOTTEMPEST.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TOTTEMPEST\TOTTEMPEST\obj\Release\TOTTEMPEST.pdb

@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E26906F5-7357-4930-9037-0076686B73C2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LAYTON</RootNamespace>
+    <AssemblyName>LAYTON</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\Tinke\bin\Debug\Plugins\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DSDecmp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\build\DSDecmp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Ekona">
+      <HintPath>..\..\..\build\Ekona.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ani.cs" />
+    <Compile Include="Bg.cs" />
+    <Compile Include="DARC.cs" />
+    <Compile Include="GDS.cs" />
+    <Compile Include="InfoAni.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="InfoAni.Designer.cs">
+      <DependentUpon>InfoAni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoBG.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="InfoBG.Designer.cs">
+      <DependentUpon>InfoBG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoImage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="InfoImage.designer.cs">
+      <DependentUpon>InfoImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoParte.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="InfoParte.designer.cs">
+      <DependentUpon>InfoParte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoPicture.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="InfoPicture.designer.cs">
+      <DependentUpon>InfoPicture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="iText.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="iText.Designer.cs">
+      <DependentUpon>iText.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LAYTON4.cs" />
+    <Compile Include="Main.cs" />
+    <Compile Include="NazoTextControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NazoTextControl.Designer.cs">
+      <DependentUpon>NazoTextControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PCK2.cs" />
+    <Compile Include="PCM.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ScriptControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ScriptControl.Designer.cs">
+      <DependentUpon>ScriptControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Text.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="InfoAni.resx">
+      <DependentUpon>InfoAni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoBG.resx">
+      <DependentUpon>InfoBG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoImage.resx">
+      <DependentUpon>InfoImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoParte.resx">
+      <DependentUpon>InfoParte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoPicture.resx">
+      <DependentUpon>InfoPicture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="iText.resx">
+      <DependentUpon>iText.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NazoTextControl.resx">
+      <DependentUpon>NazoTextControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScriptControl.resx">
+      <DependentUpon>ScriptControl.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picture_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picture_save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resultset_last.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resultset_first.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resultset_next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="LaytonLang.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\picture_edit.png" />
+    <None Include="Resources\disk.png" />
+    <None Include="Resources\stop1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,5 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\Pack.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\Pack.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Pack\Pack\obj\Release\Pack.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Pack\Pack\obj\Release\Pack.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Pack\Pack\obj\Release\Pack.pdb

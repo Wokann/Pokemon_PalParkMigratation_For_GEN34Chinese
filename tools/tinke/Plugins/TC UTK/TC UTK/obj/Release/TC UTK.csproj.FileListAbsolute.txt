@@ -1,0 +1,8 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\TC UTK.tbl
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\TC UTK.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\TC UTK.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TC UTK\TC UTK\obj\Release\TC UTK.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TC UTK\TC UTK\obj\Release\TC_UTK.TextControl.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TC UTK\TC UTK\obj\Release\TC UTK.csproj.GenerateResource.Cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TC UTK\TC UTK\obj\Release\TC UTK.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TC UTK\TC UTK\obj\Release\TC UTK.pdb

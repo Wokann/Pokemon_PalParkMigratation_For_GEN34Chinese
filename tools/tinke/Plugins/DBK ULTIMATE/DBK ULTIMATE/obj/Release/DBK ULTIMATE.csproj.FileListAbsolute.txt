@@ -1,0 +1,5 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\DBK ULTIMATE.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\DBK ULTIMATE.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\DBK ULTIMATE\DBK ULTIMATE\obj\Release\DBK ULTIMATE.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\DBK ULTIMATE\DBK ULTIMATE\obj\Release\DBK ULTIMATE.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\DBK ULTIMATE\DBK ULTIMATE\obj\Release\DBK ULTIMATE.pdb

@@ -1,0 +1,10 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\SoundLang.xml
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\Sounds.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\Sounds.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Sounds\Sounds\obj\Release\Sounds.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Sounds\Sounds\obj\Release\Sounds.Properties.Resources.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Sounds\Sounds\obj\Release\Sounds.SoundControl.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Sounds\Sounds\obj\Release\Sounds.Waiting.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Sounds\Sounds\obj\Release\Sounds.csproj.GenerateResource.Cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Sounds\Sounds\obj\Release\Sounds.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Sounds\Sounds\obj\Release\Sounds.pdb

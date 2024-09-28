@@ -1,0 +1,10 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\CommonLang.xml
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\Common.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\Common.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Common\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Common\Common\obj\Release\Common.BasicControl.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Common\Common\obj\Release\Common.Properties.Resources.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Common\Common\obj\Release\Common.iWav.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Common\Common\obj\Release\Common.csproj.GenerateResource.Cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Common\Common\obj\Release\Common.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Common\Common\obj\Release\Common.pdb

@@ -1,0 +1,16 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\LaytonLang.xml
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\LAYTON.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\LAYTON.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\LAYTON\LAYTON\obj\Release\LAYTON.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\LAYTON\LAYTON\obj\Release\LAYTON.InfoAni.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\LAYTON\LAYTON\obj\Release\LAYTON.InfoBG.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\LAYTON\LAYTON\obj\Release\LAYTON.InfoImage.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\LAYTON\LAYTON\obj\Release\LAYTON.InfoParte.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\LAYTON\LAYTON\obj\Release\LAYTON.InfoPicture.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\LAYTON\LAYTON\obj\Release\LAYTON.iText.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\LAYTON\LAYTON\obj\Release\LAYTON.NazoTextControl.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\LAYTON\LAYTON\obj\Release\LAYTON.Properties.Resources.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\LAYTON\LAYTON\obj\Release\LAYTON.ScriptControl.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\LAYTON\LAYTON\obj\Release\LAYTON.csproj.GenerateResource.Cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\LAYTON\LAYTON\obj\Release\LAYTON.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\LAYTON\LAYTON\obj\Release\LAYTON.pdb

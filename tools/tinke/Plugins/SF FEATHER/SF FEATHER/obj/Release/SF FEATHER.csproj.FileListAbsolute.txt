@@ -1,0 +1,7 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\SF FEATHER.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\SF FEATHER.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\SF FEATHER\SF FEATHER\obj\Release\SF FEATHER.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\SF FEATHER\SF FEATHER\obj\Release\SF_FEATHER.Properties.Resources.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\SF FEATHER\SF FEATHER\obj\Release\SF FEATHER.csproj.GenerateResource.Cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\SF FEATHER\SF FEATHER\obj\Release\SF FEATHER.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\SF FEATHER\SF FEATHER\obj\Release\SF FEATHER.pdb

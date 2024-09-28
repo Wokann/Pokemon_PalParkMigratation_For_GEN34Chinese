@@ -1,0 +1,7 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\TIMEACE.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\TIMEACE.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TIMEACE\TIMEACE\obj\Release\TIMEACE.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TIMEACE\TIMEACE\obj\Release\TIMEACE.TextEditor.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TIMEACE\TIMEACE\obj\Release\TIMEACE.csproj.GenerateResource.Cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TIMEACE\TIMEACE\obj\Release\TIMEACE.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\TIMEACE\TIMEACE\obj\Release\TIMEACE.pdb

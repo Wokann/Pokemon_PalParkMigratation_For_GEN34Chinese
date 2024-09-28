@@ -1,0 +1,8 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\KIRBY DROLang.xml
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\KIRBY DRO.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\KIRBY DRO.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\KIRBY DRO\KIRBY DRO\obj\Release\KIRBY DRO.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\KIRBY DRO\KIRBY DRO\obj\Release\KIRBY_DRO.Properties.Resources.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\KIRBY DRO\KIRBY DRO\obj\Release\KIRBY DRO.csproj.GenerateResource.Cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\KIRBY DRO\KIRBY DRO\obj\Release\KIRBY DRO.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\KIRBY DRO\KIRBY DRO\obj\Release\KIRBY DRO.pdb

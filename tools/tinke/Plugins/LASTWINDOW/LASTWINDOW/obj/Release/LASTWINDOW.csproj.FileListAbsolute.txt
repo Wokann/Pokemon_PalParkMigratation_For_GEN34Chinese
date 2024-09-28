@@ -1,0 +1,5 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\LASTWINDOW.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\LASTWINDOW.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\LASTWINDOW\LASTWINDOW\obj\Release\LASTWINDOW.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\LASTWINDOW\LASTWINDOW\obj\Release\LASTWINDOW.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\LASTWINDOW\LASTWINDOW\obj\Release\LASTWINDOW.pdb

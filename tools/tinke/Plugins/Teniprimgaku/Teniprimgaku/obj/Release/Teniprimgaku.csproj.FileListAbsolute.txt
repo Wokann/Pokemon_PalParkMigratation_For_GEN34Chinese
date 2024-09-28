@@ -1,0 +1,8 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\Teniprimgaku.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\Teniprimgaku.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Teniprimgaku\Teniprimgaku\obj\Release\Teniprimgaku.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Teniprimgaku\Teniprimgaku\obj\Release\Teniprimgaku.ScrnControl.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Teniprimgaku\Teniprimgaku\obj\Release\Teniprimgaku.TextViewer.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Teniprimgaku\Teniprimgaku\obj\Release\Teniprimgaku.csproj.GenerateResource.Cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Teniprimgaku\Teniprimgaku\obj\Release\Teniprimgaku.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\Teniprimgaku\Teniprimgaku\obj\Release\Teniprimgaku.pdb

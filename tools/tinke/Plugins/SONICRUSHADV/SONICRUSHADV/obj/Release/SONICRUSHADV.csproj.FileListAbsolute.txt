@@ -1,0 +1,5 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\SONICRUSHADV.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\SONICRUSHADV.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\SONICRUSHADV\SONICRUSHADV\obj\Release\SONICRUSHADV.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\SONICRUSHADV\SONICRUSHADV\obj\Release\SONICRUSHADV.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\SONICRUSHADV\SONICRUSHADV\obj\Release\SONICRUSHADV.pdb

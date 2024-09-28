@@ -1,0 +1,9 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\EDGEWORTHLang.xml
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\EDGEWORTH.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\EDGEWORTH.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\EDGEWORTH\EDGEWORTH\obj\Release\EDGEWORTH.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\EDGEWORTH\EDGEWORTH\obj\Release\EDGEWORTH.Espera.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\EDGEWORTH\EDGEWORTH\obj\Release\EDGEWORTH.Properties.Resources.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\EDGEWORTH\EDGEWORTH\obj\Release\EDGEWORTH.csproj.GenerateResource.Cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\EDGEWORTH\EDGEWORTH\obj\Release\EDGEWORTH.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\EDGEWORTH\EDGEWORTH\obj\Release\EDGEWORTH.pdb

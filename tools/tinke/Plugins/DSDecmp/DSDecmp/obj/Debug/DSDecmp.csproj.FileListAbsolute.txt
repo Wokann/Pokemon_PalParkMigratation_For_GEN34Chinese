@@ -1,0 +1,11 @@
+D:\2023\29_Tinke\TinkeDSi\Plugins\DSDecmp\DSDecmp\bin\Debug\DSDecmp.dll
+D:\2023\29_Tinke\TinkeDSi\Plugins\DSDecmp\DSDecmp\bin\Debug\DSDecmp.pdb
+D:\2023\29_Tinke\TinkeDSi\Plugins\DSDecmp\DSDecmp\bin\Debug\Ekona.dll
+D:\2023\29_Tinke\TinkeDSi\Plugins\DSDecmp\DSDecmp\bin\Debug\Ekona.pdb
+D:\2023\29_Tinke\TinkeDSi\Plugins\DSDecmp\DSDecmp\obj\Debug\DSDecmp.csproj.AssemblyReference.cache
+D:\2023\29_Tinke\TinkeDSi\Plugins\DSDecmp\DSDecmp\obj\Debug\DSDecmp.CompressionControl.resources
+D:\2023\29_Tinke\TinkeDSi\Plugins\DSDecmp\DSDecmp\obj\Debug\DSDecmp.csproj.GenerateResource.cache
+D:\2023\29_Tinke\TinkeDSi\Plugins\DSDecmp\DSDecmp\obj\Debug\DSDecmp.csproj.CoreCompileInputs.cache
+D:\2023\29_Tinke\TinkeDSi\Plugins\DSDecmp\DSDecmp\obj\Debug\DSDecmp.csproj.CopyComplete
+D:\2023\29_Tinke\TinkeDSi\Plugins\DSDecmp\DSDecmp\obj\Debug\DSDecmp.dll
+D:\2023\29_Tinke\TinkeDSi\Plugins\DSDecmp\DSDecmp\obj\Debug\DSDecmp.pdb

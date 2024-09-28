@@ -1,0 +1,11 @@
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\SDATLang.xml
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\SDAT.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\build\Plugins\SDAT.pdb
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\SDAT\SDAT\obj\Release\SDAT.csprojResolveAssemblyReference.cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\SDAT\SDAT\obj\Release\SDAT.InfoForm.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\SDAT\SDAT\obj\Release\SDAT.iSDAT.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\SDAT\SDAT\obj\Release\SDAT.NewAudioOptions.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\SDAT\SDAT\obj\Release\SDAT.Properties.Resources.resources
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\SDAT\SDAT\obj\Release\SDAT.csproj.GenerateResource.Cache
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\SDAT\SDAT\obj\Release\SDAT.dll
+D:\2023\GProject_20_Tinke\TinkeDSi\Plugins\SDAT\SDAT\obj\Release\SDAT.pdb
