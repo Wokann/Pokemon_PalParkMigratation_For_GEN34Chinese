@@ -1,6 +1,6 @@
 setlocal enabledelayedexpansion
     set tool_ndstool=.\tools\ndstool\ndstool.exe
-    set tempfolder=.\.temp\Diamond-2
+    set tempfolder=.\.temp\Diamond
     set originndsfile=.\rom\Pokemon_D_chs_2.0.0a_yyjoy_xzonn.nds
 
     if exist %tempfolder% ( rd /s /q %tempfolder%)
@@ -15,4 +15,7 @@ setlocal enabledelayedexpansion
             -t  %tempfolder%\root\ftc\banner.bin ^
             -h  %tempfolder%\root\ftc\header.bin
         md %tempfolder%\root\data\zhn
+
+        copy %tempfolder%\root\ftc\arm9.bin %tempfolder%\root\ftc\arm9.bin.bak
+
 endlocal

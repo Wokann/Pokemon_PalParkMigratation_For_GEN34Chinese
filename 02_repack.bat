@@ -7,6 +7,8 @@ setlocal enabledelayedexpansion
     set newndsfile=.\rom\Pokemon_D_chs_2.0.0a_yyjoy_xzonn_re.nds
     set repackndsfile=.\rom\Pokemon_D_chs_2.0.0a_yyjoy_xzonn_repack.nds
 
+    del %tempfolder%\root\ftc\arm9.bin.bak
+    
     %tool_ndstool% -c %newndsfile% ^
         -9  %tempfolder%\root\ftc\arm9.bin ^
         -7  %tempfolder%\root\ftc\arm7.bin ^
