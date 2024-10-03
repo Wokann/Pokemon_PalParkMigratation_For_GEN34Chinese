@@ -23,9 +23,17 @@ rev6（JP、Xzonn修正2.0.0及以后）
  conversion_table                       equ 0x020EF7D8 (rev0 P)
 
 三、24小时解限（可选）
+方法一：仿hgss风格
 位于overlay9_83，
  Unlock24hourLimit equ 0x02237A7C (rev 6)
  .org Unlock24hourLimit
     .hword 0xE01E //0xD11E
  参考资料pret/pokediamond ov83_02236548(美版地址)
+
+方法二：修改时间计算
+位于overlay9_83，
+ 0x00a3020080510100
+ 0x0002a300= 2*0x00015180
+ 0x00015180= 60*60*24 = 1day
+将0x00015180改为0x00000000
 

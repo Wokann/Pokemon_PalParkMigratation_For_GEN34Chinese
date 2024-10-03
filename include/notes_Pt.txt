@@ -19,8 +19,16 @@ rev0（JP、ACG、Xzonn修正）
  conversion_table                       equ 0x022396AC
 
 三、24小时解限（可选）
+方法一：仿hgss风格
 位于overlay9_97，
  Unlock24hourLimit equ 0x0223492C
  .org Unlock24hourLimit
     .hword 0xE01E //0xD11E
  参考资料pret/pokeplatinum ov97_02235408(美版地址)
+
+方法二：修改时间计算
+位于overlay9_97，
+ 0x00a3020080510100
+ 0x0002a300= 2*0x00015180
+ 0x00015180= 60*60*24 = 1day
+将0x00015180改为0x00000000
