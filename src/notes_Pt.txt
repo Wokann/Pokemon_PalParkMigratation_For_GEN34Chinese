@@ -1,0 +1,62 @@
+在日版（含汉化）Pt中
+
+伙伴公园字符转码程序，位于overlay9_97，
+日版（含汉化）Pt内存地址为
+
+原生转码列表内存地址
+
+
+中文转码程序需搭配“联动跨语言解限”作为前置条件
+联动锁区程序位于overlay9_97，
+日版（含汉化）Pt内存地址为0x0222A378，rom位置为0x0038D918(需要hack的位置）
+将此位置的0xD105改为0xD1FF即可解除语言限制。
+
+
+
+
+020C6EF0	FS_FindArchive
+020C6F30	FS_RegisterArchiveName
+020C6FE4	FS_ReleaseArchiveName
+020C7068	FS_LoadArchive
+020C70D8	FS_UnloadArchive
+020C7198	FS_LoadArchiveTables
+020C72BC	FS_UnloadArchiveTables
+020C7348	FS_SuspendArchive
+020C73E4	FS_ResumeArchive
+020C7454	FS_SetArchiveProc
+020C7454	FS_SetArchiveProc
+020C7474	FS_NotifyArchiveAsyncEnd
+020C74F8	FS_Init
+020C7520	GX_GetDefaultDMA
+020C7520	GX_GetDefaultDMA
+020C7530	FS_InitFile
+020C7558	FSi_FindPath
+020C769C	FSi_ReadFileCore
+020C7718	FS_ConvertPathToFileID
+020C7758	FS_OpenFileDirect
+020C77A0	FS_OpenFileFast
+020C7810	FS_OpenFile
+020C7858	FS_CloseFile
+020C7894	FS_WaitAsync
+020C7954	FS_ReadFileAsync
+020C7964	FS_ReadFile
+020C7974	FS_SeekFile
+020C7974	FS_SeekFile
+020C79E0	FS_ChangeDir
+020C7A38	FSi_OnRomReadDone
+020C7A5C	FSi_ReadRomCallback
+020C7AAC	FSi_RomArchiveProc
+020C7B28	FSi_InitRom
+020C7C70	FS_SetDefaultDMA
+020C7CC0	FS_TryLoadTable
+020C7CE0	FSi_GetOverlayBinarySize
+020C7D38	FS_GetOverlayFileID
+020C7D60	FSi_LoadOverlayInfoCore
+020C7E58	FS_LoadOverlayInfo
+020C7F54	FS_LoadOverlayImageAsync
+020C7FE0	FS_LoadOverlayImage
+020C8104	FS_StartOverlay
+020C81F8	FS_EndOverlay
+020C82E8	FS_UnloadOverlayImage
+020C82F8	FS_LoadOverlay
+020C834C	FS_UnloadOverlay
