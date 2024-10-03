@@ -8,7 +8,7 @@
 #define LANGUAGE_SPANISH 7
 #define LANGUAGE_KOREAN 8
 
-const u16 conversion_table_quote[][9] =
+const u16 conversion_table_quote[][8] =
 {
     {
         [0]                 = 0xEA,
