@@ -4,7 +4,9 @@
 
 .open ".\build\Pt\root\ftc\overlay9_97", overlay9_97_start
  .org UnlockRegion
-    .hword 0xD1FF
+    .hword 0xD1FF //0xD105
+ .org Unlock24hourLimit
+    .hword 0xE01E //0xD11E
  .org GetOpeningQuote
  conversion_table_quote:
     .incbin ".\build\conversion_table_quote.bin"

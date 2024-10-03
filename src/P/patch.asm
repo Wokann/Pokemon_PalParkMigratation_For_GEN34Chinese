@@ -16,6 +16,8 @@
 .open ".\build\P\root\ftc\overlay9_83", overlay9_83_start
  .org UnlockRegion
     .hword 0xD1FF
+ .org Unlock24hourLimit
+    .hword 0xE01E //0xD11E
 
  .org overlay9_83_start + overlay9_83_size + overlay9_83_bss_size
  conversion_table_chinese:

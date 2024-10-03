@@ -5,6 +5,7 @@
  overlay9_83_bss_size                   equ 0x1980
 
  UnlockRegion                           equ 0x0223097A
+ Unlock24hourLimit                      equ 0x02237A7C
 
 .definelabel Label_ConvertRSStringToDPStringInternational   ,0x020164C0
 .definelabel GetOpeningQuote                                ,0x02016574
