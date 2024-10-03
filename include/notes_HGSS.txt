@@ -1,0 +1,28 @@
+# HGSS版本
+rev0（JP、ACG、Xzonn修正）
+日版仅存在单版本
+
+一、前置条件“联动跨语言解限”
+位于overlay9_74（需解压），
+ UnlockRegion equ 0x02226BD8 (0x00235D09 in JPRom)
+
+ .org UnlockRegion
+    .hword 0xD1FF //0xD105
+
+二、转码程序
+位于overlay9_97（需解压），
+ GetSpaceChar                           equ 0x02236528 (HG)
+ GetOpeningQuote                        equ 0x0223653C (HG)
+ GetClosingQuote                        equ 0x02236578 (HG)
+ ConvertRSStringToDPStringInternational equ 0x022365B0 (HG)
+ GetSpaceChar                           equ 0x0223652C (SS)
+ GetOpeningQuote                        equ 0x02236540 (SS)
+ GetClosingQuote                        equ 0x0223657C (SS)
+ ConvertRSStringToDPStringInternational equ 0x022365B4 (SS)
+ 
+ conversion_table                       equ 0x0223742C (HG)
+ conversion_table                       equ 0x02237430 (SS)
+
+三、24小时解限（HG已移除24小时限制）
+移除24小时检查的函数
+ 参考资料pret/pokeheartgold ov74_02233060(美版地址)

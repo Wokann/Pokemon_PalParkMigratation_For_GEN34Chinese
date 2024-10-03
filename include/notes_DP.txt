@@ -1,0 +1,31 @@
+# DP版本：
+rev0（JP、YYjoy、Xzonn修正0.9.0b及以前）
+rev6（JP、Xzonn修正2.0.0及以后）
+
+一、前置条件“联动跨语言解限”
+位于overlay9_83，
+ UnlockRegion equ 0x0223083A (rev0) (0x0030169A in JPRom)
+ UnlockRegion equ 0x0223097A (rev6)
+
+ .org UnlockRegion
+    .hword 0xD1FF //0xD105
+
+二、转码程序
+位于arm9，
+ ConvertRSStringToDPStringInternational equ 0x020164C0
+ GetOpeningQuote                        equ 0x02016574
+ GetClosingQuote                        equ 0x020165B0
+ GetSpaceChar                           equ 0x020165EC
+
+ conversion_table                       equ 0x020EF694 (rev0 D)
+ conversion_table                       equ 0x020EF698 (rev0 P)
+ conversion_table                       equ 0x020EF7D4 (rev6 D)
+ conversion_table                       equ 0x020EF7D8 (rev0 P)
+
+三、24小时解限（可选）
+位于overlay9_83，
+ Unlock24hourLimit equ 0x02237A7C (rev 6)
+ .org Unlock24hourLimit
+    .hword 0xE01E //0xD11E
+ 参考资料pret/pokediamond ov83_02236548(美版地址)
+

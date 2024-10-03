@@ -1,0 +1,26 @@
+# Pt版本
+rev0（JP、ACG、Xzonn修正）
+日版仅存在单版本
+
+一、前置条件“联动跨语言解限”
+位于overlay9_97，
+ UnlockRegion equ 0x0222A378 (0x0038D918 in JPRom)
+
+ .org UnlockRegion
+    .hword 0xD1FF //0xD105
+
+二、转码程序
+位于overlay9_97，
+ GetSpaceChar                           equ 0x022387D4
+ GetOpeningQuote                        equ 0x022387E8
+ GetClosingQuote                        equ 0x02238824
+ ConvertRSStringToDPStringInternational equ 0x0223885C
+ 
+ conversion_table                       equ 0x022396AC
+
+三、24小时解限（可选）
+位于overlay9_97，
+ Unlock24hourLimit equ 0x0223492C
+ .org Unlock24hourLimit
+    .hword 0xE01E //0xD11E
+ 参考资料pret/pokeplatinum ov97_02235408(美版地址)
