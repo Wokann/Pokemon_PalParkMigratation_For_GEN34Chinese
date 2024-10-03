@@ -11,7 +11,7 @@
 #define EOS 0xFFFF
 
 extern u16 conversion_table[][2];
-extern u16 conversion_table_chinese[0x1E5D];
+extern u16 conversion_table_chinese[0x1E5E];
 extern u16 conversion_table_quote[][8];
 
 bool ConvertRSStringToDPStringInternational(const u8 *rs_str, u16 *dp_str, u32 length, u32 language)
