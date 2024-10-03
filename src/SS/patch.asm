@@ -12,6 +12,7 @@
     .importobj ".\build\rs_migrate_string.o"
  .org conversion_table
     .hword 0x0001, 0x01DE
+    
  .org overlay9_74_start + overlay9_74_size + overlay9_74_bss_size
  conversion_table_chinese:
     .incbin ".\build\conversion_table_chinese.bin"

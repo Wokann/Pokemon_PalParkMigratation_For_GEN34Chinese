@@ -4,7 +4,7 @@
  overlay9_97_size                       equ 0x010A60
  overlay9_97_bss_size                   equ 0x1980
 
- UnlockRegion                           equ 0x0223097A
+ UnlockRegion                           equ 0x0222A378
 
 .definelabel GetSpaceChar                                   ,0x022387D4
 .definelabel GetOpeningQuote                                ,0x022387E8
