@@ -7,7 +7,6 @@
  UnlockRegion                           equ 0x0222A378
  Unlock24hourLimit                      equ 0x0223492C
 
-.definelabel migrate_time_check                             ,0x02236548
 .definelabel GetSpaceChar                                   ,0x022387D4
 .definelabel GetOpeningQuote                                ,0x022387E8
 .definelabel GetClosingQuote                                ,0x02238824
