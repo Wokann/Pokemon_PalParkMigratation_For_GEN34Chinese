@@ -1,0 +1,24 @@
+宝可梦_钻石_yyjoy&xzonn_2.0.0a-补丁后
+CRC32: d86be68f
+MD5  : 4b6df758e455c71d078a022fcf2ffb4f
+SHA1 : 6153faf93de405eb422f2497cadc0cac589b5ec0
+
+宝可梦_珍珠_yyjoy&xzonn_2.0.0a-补丁后
+CRC32: 29370740
+MD5  : 4c1529eba89d3ff04149945dc9c11ac0
+SHA1 : 628a2dbb721b0ec83b8cbf072c85cc2ee31ec333
+
+宝可梦_白金_acg&xzonn_2.0.0-补丁后
+CRC32: a92fad3d
+MD5  : 0c6d3d36bc5701e3a4e54fa77cb6241b
+SHA1 : 579a9e662bdf7b948fd345c829faac790ae7a74c
+
+宝可梦_心金_acg&xzonn_2.0.0-补丁后
+CRC32: 74e75013
+MD5  : 5ece4e4eed74deb6624f397e75bb5e12
+SHA1 : 7240f495a574b6eaafd6948efffbac038d676659
+
+宝可梦_魂银_acg&xzonn_2.0.0-补丁后
+CRC32: 30ee4751
+MD5  : 590e8a113d969b3240b163ed071d93dc
+SHA1 : 19d2f11b46692ad6c5474a0df844c9cd3299a272

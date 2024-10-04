@@ -1,0 +1,24 @@
+宝可梦_钻石_yyjoy&xzonn_2.0.0a
+CRC32: e6b03269
+MD5  : f37cd0f5272bfa69eb2ff58e45dfaf12
+SHA1 : e1a63da0b2dc983807895340474b5af95b9d7f10
+
+宝可梦_珍珠_yyjoy&xzonn_2.0.0a
+CRC32: eccdfe2e
+MD5  : af267e681450da50211e9a248880fb5d
+SHA1 : 3338baa8c33a3ca757deebc0a3e8d7a15fae6a1e
+
+宝可梦_白金_acg&xzonn_2.0.0
+CRC32: d50b0804
+MD5  : 4133c9053a5fe47b815184e0e725671e
+SHA1 : e13d82776b3ac5aac6c338017e94d7518bf6cf36
+
+宝可梦_心金_acg&xzonn_2.0.0
+CRC32: c898ab5a
+MD5  : 07fc5de0dd108469ca47734c004f3059
+SHA1 : 75b1f137212bb5d4e45256ddb329e48803b61965
+
+宝可梦_魂银_acg&xzonn_2.0.0
+CRC32: b07a4de4
+MD5  : 82c48bcb3bc987b577f341e60511b93b
+SHA1 : 4725b794414477329a30d37bcee48b50682e203c
