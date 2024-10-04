@@ -1,5 +1,6 @@
 # Pokemon_PalParkMigratation_For_GEN34Chinese
-This project is for chinese fan translation gen3 and gen4 which can let chinese char be transfer through pal park.
+This project is for chinese fan translation gen3 and gen4 which can let chinese char be transfer through pal park.<br>
+Post on chinese community(https://bbs.oldmantvg.net/thread-44009.htm)
 
 Charmap for gen3 chinese translation is based on GB2312 two byte for one char and custom mapped. <br>
 The high byte range from 0x01-0x1E and not include 0x06('É') or 0x1B('é') <br>
