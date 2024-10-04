@@ -22,3 +22,14 @@ At that time, all version has the same charmap, and extended enough for GB2312.
 
 This project can also be used for other language fan translation project to trans custom char from gen3 to gen4. <br>
 such as gen3 Korea translation to gen4 offical Korea version. just change core codes and conversion table for your charmap
+
+
+![shown](./release/v2.0/1.jpg)
+![shown](./release/v2.0/2.jpg)
+![shown](./release/v2.0/3.jpg)
+![shown](./release/v1.0/06.png)
+![shown](./release/v1.0/07.png)
+![shown](./release/v1.0/08.png)
+![shown](./release/v1.0/09.png)
+![shown](./release/v1.0/10.png)
+![shown](./release/v1.0/11.png)
