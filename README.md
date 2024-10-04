@@ -19,6 +19,7 @@ cause at that time xzonn&acg (Pt\HGSS) didn't extend as much char for GB2312.
 PalParkMigratation code v2.0 <br>
 It is used for xzonn&yyjoy (DP) >= 2.0.0 and xzonn&acg (Pt\HGSS) >= 2.0.0. <br>
 At that time, all version has the same charmap, and extended enough for GB2312.
+GEN4 Chinese Translation Revise Project of Xzonn (https://github.com/Xzonn/PokemonChineseTranslationRevise/)
 
 This project can also be used for other language fan translation project to trans custom char from gen3 to gen4. <br>
 such as gen3 Korea translation to gen4 offical Korea version. just change core codes and conversion table for your charmap
