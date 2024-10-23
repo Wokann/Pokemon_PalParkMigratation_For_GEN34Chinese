@@ -1,3 +1,10 @@
+//C:\devkitPro\devkitARM\bin\arm-none-eabi-gcc.exe -mabi=aapcs -std=c99 -w -nostartfiles -nodefaultlibs -Os -march=armv5te -mtune=arm946e-s -mthumb -Wl,--use-blx -I C:\devkitPro\libnds\include -c src\common\rs_migrate_string.c -o build\rs_migrate_string.o -DGEN4_JP
+//注：主程序编译后的bin大小需要满足 ≤ 0xB0 方可在原函数位置上置入。
+//以上为能满足此需求的一种编译指令。如您无法保证自行编写的编译指令满足生成大小要求，请继续使用以上指令进行编译。
+//-DGEN4_JP用于主程序判断非法字符时填充的问号编码及填充长度。日版汉化使用GEN4_JP即可。
+//若韩版开发者用于与3代韩化版联动可使用GEN4_KO替代
+//其他语言GEN4_EN GEN4_FR GEN4_IT GEN4_DE GEN4_SP则默认为else
+
 #include "nds/ndstypes.h"
 
 #define LANGUAGE_JAPANESE 1
@@ -24,7 +31,6 @@
 extern u16 conversion_table[][2];
 extern u16 conversion_table_chinese[0x1E5E];
 extern u16 conversion_table_quote[][8];
-
 bool ConvertRSStringToDPStringInternational(const u8 *rs_str, u16 *dp_str, u32 length, u32 language)
 {
     bool notFullWidth;
