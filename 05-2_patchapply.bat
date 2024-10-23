@@ -1,30 +1,31 @@
 
  cd /d %~dp0
-::åº”ç”¨xdeltaè¡¥ä¸
-::ä½¿ç”¨æ–¹æ³•ï¼šxdelta3 -v -d -s [åŽŸå§‹romæ–‡ä»¶] [è¡¥ä¸æ–‡ä»¶] [æ–°romæ–‡ä»¶] 
+::Ó¦ÓÃxdelta²¹¶¡
+ set releaseversion=v2.0.1
+::Ê¹ÓÃ·½·¨£ºxdelta3 -v -d -s [Ô­Ê¼romÎÄ¼þ] [²¹¶¡ÎÄ¼þ] [ÐÂromÎÄ¼þ] 
  ".\tools\xdelta3\xdelta3-3.1.0-i686.exe" -v -d -f -s ^
     ".\rom\chs\Pokemon_D_chs_2.0.0a_yyjoy_xzonn.nds" ^
-    ".\release\v2.0\å®å¯æ¢¦3ã€4ä»£æ±‰åŒ–è”åŠ¨è¡¥ä¸_é’»çŸ³_v2.0.0a.xdelta" ^
+    ".\release\%releaseversion%\±¦¿ÉÃÎ3¡¢4´úºº»¯Áª¶¯²¹¶¡_×êÊ¯_v2.0.0a.xdelta" ^
     ".\rom\new\Pokemon_D_chs_2.0.0a_yyjoy_xzonn_re.nds"
  ".\tools\xdelta3\xdelta3-3.1.0-i686.exe" -v -d -f -s ^
     ".\rom\chs\Pokemon_P_chs_2.0.0a_yyjoy_xzonn.nds" ^
-    ".\release\v2.0\å®å¯æ¢¦3ã€4ä»£æ±‰åŒ–è”åŠ¨è¡¥ä¸_çç _v2.0.0a.xdelta" ^
+    ".\release\%releaseversion%\±¦¿ÉÃÎ3¡¢4´úºº»¯Áª¶¯²¹¶¡_ÕäÖé_v2.0.0a.xdelta" ^
     ".\rom\new\Pokemon_P_chs_2.0.0a_yyjoy_xzonn_re.nds"
  ".\tools\xdelta3\xdelta3-3.1.0-i686.exe" -v -d -f -s ^
     ".\rom\chs\Pokemon_Pt_chs_2.0.0_acg_xzonn.nds" ^
-    ".\release\v2.0\å®å¯æ¢¦3ã€4ä»£æ±‰åŒ–è”åŠ¨è¡¥ä¸_ç™½é‡‘_v2.0.0.xdelta" ^
+    ".\release\%releaseversion%\±¦¿ÉÃÎ3¡¢4´úºº»¯Áª¶¯²¹¶¡_°×½ð_v2.0.0.xdelta" ^
     ".\rom\new\Pokemon_Pt_chs_2.0.0_acg_xzonn_re.nds"
  ".\tools\xdelta3\xdelta3-3.1.0-i686.exe" -v -d -f -s ^
     ".\rom\chs\Pokemon_HG_chs_2.0.0_acg_xzonn.nds" ^
-    ".\release\v2.0\å®å¯æ¢¦3ã€4ä»£æ±‰åŒ–è”åŠ¨è¡¥ä¸_å¿ƒé‡‘_v2.0.0.xdelta" ^
+    ".\release\%releaseversion%\±¦¿ÉÃÎ3¡¢4´úºº»¯Áª¶¯²¹¶¡_ÐÄ½ð_v2.0.0.xdelta" ^
     ".\rom\new\Pokemon_HG_chs_2.0.0_acg_xzonn_re.nds"
  ".\tools\xdelta3\xdelta3-3.1.0-i686.exe" -v -d -f -s ^
     ".\rom\chs\Pokemon_SS_chs_2.0.0_acg_xzonn.nds" ^
-    ".\release\v2.0\å®å¯æ¢¦3ã€4ä»£æ±‰åŒ–è”åŠ¨è¡¥ä¸_é­‚é“¶_v2.0.0.xdelta" ^
+    ".\release\%releaseversion%\±¦¿ÉÃÎ3¡¢4´úºº»¯Áª¶¯²¹¶¡_»êÒø_v2.0.0.xdelta" ^
     ".\rom\new\Pokemon_SS_chs_2.0.0_acg_xzonn_re.nds"
 
-::toolsæ–‡ä»¶å¤¹å†…è¿˜æ”¾ç½®äº†ä¸€ä¸ªå›¾å½¢åŒ–guiç•Œé¢çš„è¡¥ä¸å·¥å…·deltapatcherï¼Œå¯ä¾›æ‰‹åŠ¨é¼ æ ‡ç‚¹å‡»åº”ç”¨è¡¥ä¸
+::toolsÎÄ¼þ¼ÐÄÚ»¹·ÅÖÃÁËÒ»¸öÍ¼ÐÎ»¯gui½çÃæµÄ²¹¶¡¹¤¾ßdeltapatcher£¬¿É¹©ÊÖ¶¯Êó±êµã»÷Ó¦ÓÃ²¹¶¡
 ::
-::3ç§’åŽè‡ªåŠ¨å…³é—­æœ¬çª—å£
+::3Ãëºó×Ô¶¯¹Ø±Õ±¾´°¿Ú
 @echo off
 ping 127.0.0.1 -n 3 >nul
