@@ -1,7 +1,7 @@
  cd /d %~dp0
- C:\devkitPro\devkitARM\bin\arm-none-eabi-gcc.exe -mabi=aapcs -std=c99 -w -nostartfiles -nodefaultlibs -Os -march=armv5te -mtune=arm946e-s -mthumb -Wl,--use-blx -I C:\devkitPro\libnds\include -c src\common\rs_migrate_string.c -o build\rs_migrate_string.o
+ C:\devkitPro\devkitARM\bin\arm-none-eabi-gcc.exe -mabi=aapcs -std=c99 -w -nostartfiles -nodefaultlibs -Os -march=armv5te -mtune=arm946e-s -mthumb -Wl,--use-blx -I C:\devkitPro\libnds\include -c src\common\rs_migrate_string.c -o build\rs_migrate_string.o -DGEN4_JP
  C:\devkitPro\devkitARM\bin\arm-none-eabi-gcc.exe -mabi=aapcs -std=c99 -w -nostartfiles -nodefaultlibs -Os -march=armv5te -mtune=arm946e-s -mthumb -Wl,--use-blx -I C:\devkitPro\libnds\include -c src\common\conversion_table_quote.c -o build\conversion_table_quote.o
- C:\devkitPro\devkitARM\bin\arm-none-eabi-gcc.exe -mabi=aapcs -std=c99 -w -nostartfiles -nodefaultlibs -Os -march=armv5te -mtune=arm946e-s -mthumb -Wl,--use-blx -I C:\devkitPro\libnds\include -c src\common\conversion_table_chinese.c -o build\conversion_table_chinese.o
+ C:\devkitPro\devkitARM\bin\arm-none-eabi-gcc.exe -mabi=aapcs -std=c99 -w -nostartfiles -nodefaultlibs -Os -march=armv5te -mtune=arm946e-s -mthumb -Wl,--use-blx -I C:\devkitPro\libnds\include -c src\common\conversion_table_chinese.c -o build\conversion_table_chinese.o -DGEN4_JP
   
  C:\devkitPro\devkitARM\bin\arm-none-eabi-objcopy.exe -O binary build\rs_migrate_string.o build\rs_migrate_string.bin
  C:\devkitPro\devkitARM\bin\arm-none-eabi-objcopy.exe -O binary build\conversion_table_quote.o build\conversion_table_quote.bin

@@ -10,6 +10,17 @@
 
 #define EOS 0xFFFF
 
+#ifdef GEN4_JP
+    #define QUESTION_MARK 0xE2
+    #define ILLEGAL_PADDING_LEN 5
+#elif defined(GEN4_KO)
+    #define QUESTION_MARK 0x01AC
+    #define ILLEGAL_PADDING_LEN 5
+#else //GEN4_EN GEN4_FR GEN4_IT GEN4_DE GEN4_SP
+    #define QUESTION_MARK 0x01AC
+    #define ILLEGAL_PADDING_LEN 10
+#endif
+
 extern u16 conversion_table[][2];
 extern u16 conversion_table_chinese[0x1E5E];
 extern u16 conversion_table_quote[][8];
@@ -28,11 +39,11 @@ bool ConvertRSStringToDPStringInternational(const u8 *rs_str, u16 *dp_str, u32 l
         {
             // If we're here, the provided name is corrupt.
             // Fill it with question marks.
-            s32 r3 = (s32)((length - 1) < 5 ? (length - 1) : 5);
+            s32 r3 = (s32)((length - 1) < ILLEGAL_PADDING_LEN ? (length - 1) : ILLEGAL_PADDING_LEN);
             s32 r1;
             for (r1 = 0; r1 < r3; r1++)
             {
-                dp_str[r1] = 0x1AC; // DP: ?
+                dp_str[r1] = QUESTION_MARK; // DP: ?
             }
             dp_str[r1] = EOS;
             return FALSE;
